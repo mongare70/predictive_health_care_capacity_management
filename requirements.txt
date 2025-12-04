@@ -5,3 +5,7 @@ pandas
 pymysql
 matplotlib
 seaborn
+mlflow
+statsmodels
+scikit-learn
+pmdarima
