@@ -8,4 +8,5 @@ seaborn
 mlflow
 statsmodels
 scikit-learn
-pmdarima
+streamlit
+huggingface-hub
