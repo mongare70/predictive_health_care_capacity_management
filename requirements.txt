@@ -10,3 +10,7 @@ statsmodels
 scikit-learn
 streamlit
 huggingface-hub
+pydantic
+pathlib
+typing
+uvicorn

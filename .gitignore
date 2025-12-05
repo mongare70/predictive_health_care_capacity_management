@@ -1,6 +1,7 @@
 *.csv
 venv
-*.json
+.vscode/settings.json
 .env
 mlruns
 *.pkl
+**/__pycache__/
